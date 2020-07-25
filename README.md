@@ -1,4 +1,4 @@
-![title](Newsletter.png)
+![title](Newsletter.jpg)
 
 ## Newsletter-of-Newsletters
 
